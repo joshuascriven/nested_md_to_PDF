@@ -1,5 +1,6 @@
 # Convert Nested Markdown Structure to PDF with Bibliography
 
+## Inlcuded files found in "Content" folder
 - `script_3L.command` (not visible in Windows) and `script_3L.txt` both contain the bash script for creating the PDF. Double-clicking the .command version will execute the script in the Mac Terminal. The .txt version is included for those who wish to edit and/or input the script into Terminal (Mac) or Command Prompt (Windows).
 - `BIB_PATH.txt` contains the path of the bibtex file with citations to be used for your bibliography.
 - `TEMPLATE_PATH.txt` contains the path of the LaTex template to be used when pandoc compilec the PDF from your markdown.
