@@ -1,4 +1,6 @@
-# Convert Nested Markdown Structure to PDF with Bibliography
+# What can you do with this repo?
+
+Take a folder of markdown files (three levels deep) and concatenate then compile them into a PDF with bibliography. Great for large writing projects that are more easily written with sections in separate documents.
 
 ## Inlcuded files found in "Content" folder
 - `script_3L.command` (not visible in Windows) and `script_3L.txt` both contain the bash script for creating the PDF. Double-clicking the .command version will execute the script in the Mac Terminal. The .txt version is included for those who wish to edit and/or input the script into Terminal (Mac) or Command Prompt (Windows).
